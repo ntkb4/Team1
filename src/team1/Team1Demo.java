@@ -12,8 +12,5 @@ public class Team1Demo {
 		
 		System.out.println(a+b);
 		
-		System.out.println("pam read all comments");
-		
-			
 	}
 }

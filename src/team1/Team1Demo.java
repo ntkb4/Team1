@@ -6,5 +6,10 @@ public class Team1Demo {
 		System.out.println("TEam2Demo");
 		System.out.println("trap...");
 	}
+	
+	public void addNum(int a, int b) {
+		
+		System.out.println(a+b);
+	}
 
 }

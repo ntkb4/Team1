@@ -9,8 +9,16 @@ public class Team1Demo {
 	}
 	
 	public void addNum(int a, int b) {
-		
-		System.out.println(a+b);
+
+		System.out.println(a + b);
+
+		boolean isSunday = true;
+		if (isSunday) {
+			System.out.println("ABNER");
+		} else {
+			System.out.println("RENBA");
+		}
+
 	}
 	
 	
